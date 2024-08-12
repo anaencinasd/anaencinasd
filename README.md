@@ -4,5 +4,7 @@
 
 🌱 HTML, CSS, JAVASCRIPT, PHP 
 
+💼 Currently working at Freepress Coop
+
 📫 How to reach me?? I'm in ana.encinasdiaz@gmail.com
 
